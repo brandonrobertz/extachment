@@ -22,9 +22,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 Author: Patrick Olsen
-Email: patrick.olsen@sysforensics.org
-Twitter: @patrickrolsen
-Version 0.3
 
 Reference: http://www.decalage.info/python/oletools
 Reference: https://github.com/mattgwwalker/msg-extractor
